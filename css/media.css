@@ -1,0 +1,498 @@
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    .navbar {
+        padding: 0px 5px;
+    }
+    .navbar-toggler{
+        display: none;
+    }
+    .sidebar {
+        width: 350px;
+        top: 40px;
+        right: -350px;
+    }
+    .ber-hou {
+        right: 0;
+    }
+    .sidebar .sidebar-click {
+        top: -35px;
+        left: -35px;
+    }
+    .sidebar-item {
+        padding-top: 5px;
+    }
+    .sidebar-item h3 {
+        font-size: 18px;
+        padding-top: 5px;
+    }
+    .sidebar-item p {
+        font-size: 14px;
+        padding-top: 5px;
+        padding-bottom: 0px;
+    }
+    .social-icon {
+        padding-top: 0px;
+    }
+    .sidebar-nav a {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    #banner {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    .banner-header h1 {
+        font-size: 45px;
+    }
+    .banner-header p {
+        font-size: 30px;
+        padding-bottom: 0;
+    }
+    .next {
+        display: none!important;
+    }
+    .prev {
+        display: none!important;
+    }
+    #about {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    #service {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    #project {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    .overlay h3 {
+	position: absolute;
+	bottom: 45px;
+	left: 30px;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 18px;
+	color: #fff;
+	font-weight: 400;
+}
+    .project-item .nav {
+        padding-top: 0px;
+    }
+    .project-item {
+        padding-bottom: 40px;
+    }
+    .overlay h3 {
+        bottom: 50px;
+    }
+    .overlay h3 {
+        font-size: 18px;
+    }
+    .overlay p {
+        font-size: 14px;
+    }
+    .nav-tabs .nav-link {
+        font-size: 30px;
+    }
+    .justify-content-end {
+        justify-content: center !important;
+    }
+    .collapse-img{
+        margin-bottom: 30px;
+    }
+    .pb-5, .py-5 {
+        padding-bottom: 0rem !important;
+    }
+    .pt-5, .py-5 {
+        padding-top: 0rem !important;
+    }
+    #team {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    .team-overlay p {
+        bottom: 40px;
+        font-size: 12px;
+        padding: 0px 0px;
+    }
+    .team-social {
+        bottom: 25px;
+    }
+    .team-social i {
+        font-size: 13px;
+        width: 20px;
+        height: 20px;
+        line-height: 20px;
+        margin-right: 2px;
+    }
+    .aboutus-item {
+        padding: 80px 0px 70px 0px;
+        text-align: center;
+    }
+    .aboutus-item h4{
+        padding: 0 70px;
+    }
+    .aboutus-item p{
+        padding: 20px 70px;
+    }
+    .blog-text {
+        padding: 25px 20px;
+    }
+    #footer {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    .footer-item{
+        text-align: center;
+    }
+    .footer-item h3{
+        padding-top: 40px;
+    }
+    .copy-right-item{
+        text-align: center !important;
+    }
+
+}
+
+
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    .navbar {
+        padding: 0px 5px;
+    }
+    .navbar-toggler{
+        display: none;
+    }
+    .sidebar {
+        width: 350px;
+        top: 40px;
+        right: -350px;
+    }
+    .ber-hou {
+        right: 0;
+    }
+    .sidebar .sidebar-click {
+        top: -35px;
+        left: -35px;
+    }
+    .sidebar-item {
+        padding-top: 5px;
+    }
+    .sidebar-item h3 {
+        font-size: 18px;
+        padding-top: 5px;
+    }
+    .sidebar-item p {
+        font-size: 14px;
+        padding-top: 5px;
+        padding-bottom: 0px;
+    }
+    .social-icon {
+        padding-top: 0px;
+    }
+    .sidebar-nav a {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    #banner {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    .banner-header h1 {
+        font-size: 45px;
+    }
+    .banner-header p {
+        font-size: 30px;
+        padding-bottom: 0;
+    }
+    .next {
+        display: none!important;
+    }
+    .prev {
+        display: none!important;
+    }
+    #about {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    .header-part p {
+        font-size: 16px;
+        padding: 0 0;
+    }
+    .about-item {
+        margin-bottom: 30px;
+    }
+    #service {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    .service-part {
+        background: #fff;
+        padding: 30px 30px;
+        padding-bottom: 20px;
+    }
+    .service-part p {
+        font-size: 12px;
+    }
+    #project {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    .project-item {
+        padding-bottom: 20px;
+    }
+    .project-item .nav {
+        padding-top: 0px;
+    }
+    .nav-tabs .nav-link {
+        font-size: 23px;
+    }
+    .collapse-img{
+        margin-bottom: 30px;
+    }
+    .pb-5, .py-5 {
+        padding-bottom: 0rem !important;
+    }
+    .pt-5, .py-5 {
+        padding-top: 0rem !important;
+    }
+    #team {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .team-item{
+        padding-bottom: 30px;
+    }
+    .aboutus-item {
+        padding: 80px 0px 70px 0px;
+        text-align: center;
+    }
+    .aboutus-item h4{
+        padding: 0 70px;
+    }
+    .aboutus-item p{
+        padding: 20px 70px;
+    }
+    #brand {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    .brand-img{
+        text-align: center;
+        padding-bottom: 40px;
+    }
+    #blog {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    .blog-item {
+        margin-bottom: 30px;
+    }
+    #footer {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    .footer-item{
+        text-align: center;
+    }
+    .footer-item h3{
+        padding-top: 40px;
+    }
+    .copy-right-item{
+        text-align: center !important;
+    }
+
+
+}
+
+/*  Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+    .navbar {
+        padding: 0px 5px;
+    }
+    .navbar-toggler{
+        display: none;
+    }
+    .sidebar {
+        width: 280px;
+        top: 40px;
+        right: -280px;
+    }
+    .ber-hou {
+        right: 0;
+    }
+    .sidebar .sidebar-click {
+        top: -35px;
+        left: -35px;
+    }
+    .sidebar-item {
+        padding-top: 10px;
+    }
+    .sidebar-item h3 {
+        font-size: 20px;
+        padding-top: 8px;
+    }
+    .sidebar-item p {
+        font-size: 14px;
+        padding-top: 0px;
+        padding-bottom: 5px;
+    }
+    .social-icon {
+        padding-top: 0px;
+    }
+    .sidebar-nav a {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+
+    .banner-header h1 {
+        font-size: 32px;
+    }
+    #banner {
+        padding-top: 90px;
+        padding-bottom: 70px;
+    }
+    .banner-header p {
+        font-size: 20px;
+    }
+    .next {
+        display: none!important;
+    }
+    .prev {
+        display: none!important;
+    }
+    #about {
+        padding-top: 80px;
+        padding-bottom: 70px;
+    }
+    .header-part p {
+        padding: 0 0px;
+    }
+    .about-item {
+        padding-bottom: 30px;
+    }
+    #service {
+        padding-top: 80px;
+        padding-bottom: 70px;
+    }
+    #project {
+        padding-top: 80px;
+        padding-bottom: 70px;
+    }
+    .project-item .nav {
+        padding-top: 0px;
+    }
+    .nav-link {
+        display: block;
+        padding: 8px;
+    }
+    .justify-content-end {
+        justify-content: flex-center !important;
+    }
+    .collapse-img{
+        margin-bottom: 30px;
+    }
+    .pb-5, .py-5 {
+        padding-bottom: 0rem !important;
+    }
+    .pr-5{
+        padding-left: 0 !important;
+    }
+    .pt-5, .py-5 {
+        padding-top: 0rem !important;
+    }
+    #counter {
+        padding-top: 70px;
+        padding-bottom: 60px;
+    }
+    .counter-item{
+        padding-bottom: 10px;
+    }
+    .overlay {
+        padding: 15px;
+    }
+    .overlay h3 {
+        bottom: 30px;
+        left: 15px;
+    }
+    .overlay p {
+        bottom: 2px;
+        left: 15px;
+    }
+    #team {
+        padding-top: 90px;
+        padding-bottom: 70px;
+    }
+    .team-overlay p {
+        font-size: 13px;
+    }
+    .team-social i {
+        font-size: 14px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        margin-right: 2px;
+    }
+    .team-item{
+        padding-bottom: 30px;
+    }
+    .aboutus-item {
+        padding: 60px 0px 50px 0px;
+        text-align: center;
+    }
+    .aboutus-item h4 {
+        font-family: 'Roboto Condensed', sans-serif;
+        font-size: 25px;
+        color: #222222;
+        font-weight: 700;
+        padding: 0px 0px 14px 0;
+    }
+    .aboutus-item p {
+        font-family: 'Roboto Condensed', sans-serif;
+        font-size: 13px;
+        padding-bottom: 40px;
+    }
+    #brand {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .brand-img{
+        text-align: center;
+        padding-bottom: 40px;
+    }
+    #blog {
+        padding-top: 90px;
+        padding-bottom: 70px;
+    }
+    .pl-4, .px-4 {
+        padding-left: 0 !important;
+    }
+    .pr-0{
+        padding-left: 0 !important;
+    }
+    #footer {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .footer-item{
+        text-align: center;
+    }
+    .footer-item h3{
+        padding-top: 40px;
+    }
+    .copy-right-item{
+        text-align: center;
+    }
+    .copy-right-item a {
+        padding-right: 6px;
+    }
+
+
+}
