@@ -9,7 +9,7 @@
         display: none;
     }
     .sidebar {
-        width: 350px;
+        width: 300px;
         top: 40px;
         right: -350px;
     }
